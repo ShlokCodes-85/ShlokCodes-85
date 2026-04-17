@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shlok+Jain;Full+Stack+(MERN)+Developer;AI+%2F+ML+Engineer;Passionate+Coder+from+India" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ShlokCodes-85?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ShlokCodes-85?label=Stars&style=social" alt="GitHub stars" />
-</div>
+<hr style="height:2px">
 
 ## 🚀 About Me
 
@@ -16,10 +13,7 @@
 - 📫 **How to reach me**: [bjainshlok0902@gmail.com](mailto:bjainshlok0902@gmail.com)
 - ☕ **Fun Fact**: I believe the best way to learn is by building projects, breaking them, and then fixing them!
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShlokCodes-85&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+<hr style="height:2px">
 
 ## 💻 Tech Stack
 
@@ -31,7 +25,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### MERN Stack & Frontend
+### MERN Stack
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -39,6 +33,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
+<hr style="height:2px">
 
 ## 📌 Featured Projects
 
@@ -51,6 +47,8 @@ An end-to-end ML project comparing XGBoost, Random Forest, and SVM for real-time
 ### 🛂 [AI Visa Success Advisor](https://github.com/ShlokCodes-85/AI-Visa-Success-Advisor)
 A full-stack MERN application featuring an intelligent chatbot and dynamic form builder to streamline complex visa documentation.
 
+<hr style="height:2px">
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -58,14 +56,25 @@ A full-stack MERN application featuring an intelligent chatbot and dynamic form 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShlokCodes-85&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages"/>
 </div>
 
+<hr style="height:2px">
+
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shlok-jain-674144295/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shlok-jain-674144295/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
+  <a href="https://www.instagram.com/shlok_jain_72/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
   <a href="mailto:bjainshlok0902@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
