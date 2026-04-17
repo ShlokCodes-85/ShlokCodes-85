@@ -13,7 +13,7 @@
 - 💻 **Full Stack Developer**: Building scalable web applications using the **MERN Stack**.
 - 🤖 **Autonomous Systems**: Currently developing [SentinalAI](https://github.com/ShlokCodes-85/SentinalAI_Autonomous_Real_World_Incident_Investigator), an agent that reasons over live video/audio.
 - 🌱 **Learning**: Advanced LLM workflows and distributed system architecture.
-- 📫 **How to reach me**: [shlokjain.work@gmail.com](mailto:shlokjain.work@gmail.com)
+- 📫 **How to reach me**: [bjainshlok0902@gmail.com](mailto:bjainshlok0902@gmail.com)
 - ☕ **Fun Fact**: I believe the best way to learn is by building projects, breaking them, and then fixing them!
 
 ## 🏆 GitHub Trophies
