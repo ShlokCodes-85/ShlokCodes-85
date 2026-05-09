@@ -49,15 +49,6 @@ A full-stack MERN application featuring an intelligent chatbot and dynamic form 
 
 <hr style="height:2px">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShlokCodes-85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShlokCodes-85&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages"/>
-</div>
-
-<hr style="height:2px">
-
 ## 🤝 Connect With Me
 
 <div align="center">
