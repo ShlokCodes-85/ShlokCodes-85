@@ -64,7 +64,7 @@ A full-stack MERN application featuring an intelligent chatbot and dynamic form 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://shlok-jain.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
